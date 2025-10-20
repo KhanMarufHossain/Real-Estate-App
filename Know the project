@@ -1,0 +1,17 @@
+DemovideoLink: https://drive.google.com/file/d/1VyuXIa1PE-NAXeLLz2CwV9ooiy_oyuul/view?usp=drive_link
+
+
+Marrfa – Smart Real Estate, Built for You
+We built Marrfa to make property searching and developer connections simple, secure, and enjoyable. I ,and one backend guy managed every step, from design to deployment, using the latest technologies and best practices.
+User Authentication: Using Firebase Auth,Firestore Database ,integrating with our own user management backend making Google Sign-In, Email-Password SignIn convenient and secure.
+Profile Management: Users can upload profile photos, which we handle and optimize with Cloudinary(getting the link in firestore database).
+Property Listings: We managed dynamic property feeds and detailed screens, fetching data from our custom backend API.
+Register Interest & Scheduling: Register interest in properties and schedule calls, with all actions tracked in the backend. One tap you need to get into the Whatsapp inbox or move to your phone app to call or whatsapp(draft ready). Same for the email. One tap moves you to Gmail app with email entered and Draft ready.
+Favorites & Recommendations: We implemented personalized recommendations and favorites, using custom hooks and context for a tailored experience.
+Developer & Purchase Directory: We created a directory for users to browse developers, projects, search view their projects, and connect via WhatsApp or phone.
+Backend & API: We built and managed a Node.js/Express backend with RESTful APIs, JWT authentication, and robust error handling.
+Google Maps Integration: One map showing all the properties we offer, other one in Property Details to show that specific property location. 
+Security & Performance:As pagination feature(scroll to load more) for a faster experience.
+
+
+
